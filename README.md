@@ -1,10 +1,7 @@
-*Tags:Html, Css, JavaScript, Bootstrap4, JQuery,Sass*
+*Tags: Frontend, Web Development*
 
 [**Fusion Restaurant Website**](https://cmn0705.github.io/Fusion_Restaurant_Website/Deployment/index.html)
 
-**Website can do the following:**
-* Let customers log in. Login window will be toggled when the Login link is clicked.
-* Let customers reserve table. Reserve window will be toggled when the button is clicked.
-* A running slides that display additonal information.
-
-[Full description of this assignment here](https://cmn0705.github.io/Fusion_Restaurant_Website/Description.docx)
+Description: 
+- Setup, designed, and styled a responsive restaurant website that has multiple pages, adjusts itself to screen sizes, let customers login and reserve table, or feedback. The login and reserve window will be toggled when the buttons are clicked. Main webpage also has running slides that display additional information.
+- Used various web development tools: *html, css, javaScript, bootstrap 4, Less and Sass (css preprocessors), node.js, npm (for task automation), Grunt (task runner)*
